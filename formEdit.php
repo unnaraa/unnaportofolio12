@@ -52,8 +52,7 @@ while ($praktek = mysqli_fetch_array($data)) {
 
         <button type="submit">Save</button>
         
-
-    </form>
+        </form>
     </form>
 </body>
 </html>
